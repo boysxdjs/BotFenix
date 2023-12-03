@@ -19,7 +19,7 @@ if (!db.data.chats[m.chat].modohorny && m.isGroup) throw `*[❗] Los comandos +1
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂
+    const str = `🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵
     
 ➤ *𝗛ola, ${taguser} Mira Estos Comandos 😝*
 
