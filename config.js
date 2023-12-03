@@ -10,22 +10,22 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['51906528530', '🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂', true],
-  ['51906528530', '🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂', false],
-  ['51906528530', '🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂', true],
-  ['51906528530', '🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂', true],
+  ['56996261106', '🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵', true],
+  ['56996261106', '🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵', false],
+  ['56996261106', '🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵', true],
+  ['56996261106', '🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵', true],
 ];
 
-global.suittag = ['51906529530'];
-global.prems = ['51906528530'];
+global.suittag = ['56996261106'];
+global.prems = ['56996261106'];
 
 global.packname = 'Hola Creaste Un Sticker Con :';
-global.author = '🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂';
-global.wm = '🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂';
-global.titulowm = '🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂';
-global.titulowm2 = `🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂`
-global.igfg = '🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂';
-global.wait = '*[ 🦂 ] Cargando...*';
+global.author = '🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵';
+global.wm = '🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵';
+global.titulowm = '🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵';
+global.titulowm2 = `🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵`
+global.igfg = '🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵';
+global.wait = '*[ 🩵 ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
@@ -45,15 +45,15 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂`;
-global.gt = '🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂';
-global.mysticbot = '🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂';
+global.wm2 = `▸ ${dia} ${fecha}\n▸ 🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵`;
+global.gt = '🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵';
+global.mysticbot = '🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵';
 global.md = 'https://github.com/Bots/RobarNo-MD';
 global.mysticbot = 'https://github.com/Bots/RobarNo-MD';
-global.waitt = '*[ 🦂 ] Cargando...*';
-global.waittt = '*[ 🦂 ] Cargando...*';
-global.waitttt = '*[ 🦂 ] Cargando...*';
-global.nomorown = '51906528530';
+global.waitt = '*[ 🩵 ] Cargando...*';
+global.waittt = '*[ 🩵 ] Cargando...*';
+global.waitttt = '*[ 🩵 ] Cargando...*';
+global.nomorown = '56996261106';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
