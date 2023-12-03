@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/TeamObvious/Samurai-Rey",
+  "homepage": "https://github.com/boysxdjs/BunnyBot",
   "author": {
-    "name": "TeamObvious"
+    "name": "boysxdjs"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TeamObvious/Samurai-Rey.git"
+    "url": "git+https://github.com/boysxdjs/BunnyBot.git"
   },
   "bugs": {
-    "url": "https://github.com/TeamObvious/Samurai-Rey/issues"
+    "url": "https://github.com/boysxdjs/BunnyBot/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
