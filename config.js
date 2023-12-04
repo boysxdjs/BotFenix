@@ -10,21 +10,21 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['56996261106', '🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵', true],
-  ['56996261106', '🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵', false],
-  ['56996261106', '🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵', true],
-  ['56996261106', '🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵', true],
+  ['5492996092999', '🦅 𝘽𝙤𝙩 𝙁𝙚𝙣𝙞𝙭 🦅', true],
+  ['56996261106', '🦅 𝘽𝙤𝙩 𝙁𝙚𝙣𝙞𝙭 🦅', false],
+  ['5492996092999', '🦅 𝘽𝙤𝙩 𝙁𝙚𝙣𝙞𝙭 🦅', true],
+  ['56996261106', '🦅 𝘽𝙤𝙩 𝙁𝙚𝙣𝙞𝙭 🦅', true],
 ];
 
-global.suittag = ['56996261106'];
-global.prems = ['56996261106'];
+global.suittag = ['5492996092999'];
+global.prems = ['5492996092999'];
 
 global.packname = 'Hola Creaste Un Sticker Con :';
-global.author = '🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵';
-global.wm = '🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵';
-global.titulowm = '🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵';
-global.titulowm2 = `🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵`
-global.igfg = '🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵';
+global.author = '🦅 𝘽𝙤𝙩 𝙁𝙚𝙣𝙞𝙭 🦅';
+global.wm = '🦅 𝘽𝙤𝙩 𝙁𝙚𝙣𝙞𝙭 🦅';
+global.titulowm = '🦅 𝘽𝙤𝙩 𝙁𝙚𝙣𝙞𝙭 🦅';
+global.titulowm2 = `🦅 𝘽𝙤𝙩 𝙁𝙚𝙣𝙞𝙭 🦅`
+global.igfg = '🦅 𝘽𝙤𝙩 𝙁𝙚𝙣𝙞𝙭 🦅';
 global.wait = '*[ 🩵 ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -45,9 +45,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵`;
-global.gt = '🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵';
-global.mysticbot = '🩵 𝘽𝙪𝙣𝙣𝙮 𝘽𝙤𝙩 🩵';
+global.wm2 = `▸ ${dia} ${fecha}\n▸ 🦅 𝘽𝙤𝙩 𝙁𝙚𝙣𝙞𝙭 🦅`;
+global.gt = '🦅 𝘽𝙤𝙩 𝙁𝙚𝙣𝙞𝙭 🦅';
+global.mysticbot = '🦅 𝘽𝙤𝙩 𝙁𝙚𝙣𝙞𝙭 🦅';
 global.md = 'https://github.com/Bots/RobarNo-MD';
 global.mysticbot = 'https://github.com/Bots/RobarNo-MD';
 global.waitt = '*[ 🩵 ] Cargando...*';
