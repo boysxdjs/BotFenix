@@ -1,7 +1,7 @@
 {
-  "name": "Alacran",
+  "name": "fenix",
   "version": "1.0.0",
-  "description": "Alacran El Mejor Bot",
+  "description": "fenix El Mejor Bot",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/boysxdjs/BunnyBot",
+  "homepage": "https://github.com/boysxdjs/BotFenix",
   "author": {
     "name": "boysxdjs"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/boysxdjs/BunnyBot.git"
+    "url": "git+https://github.com/boysxdjs/BotFenix.git"
   },
   "bugs": {
-    "url": "https://github.com/boysxdjs/BunnyBot/issues"
+    "url": "https://github.com/boysxdjs/BotFenix/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
