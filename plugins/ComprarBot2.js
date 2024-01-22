@@ -23,7 +23,7 @@ Adquiriendo el bot para grupos sería por ( *1 mes* ) de ahí tendrá que renova
 
 • *Tiempo Max De Entrega 2 Dias*
 • *Fines De Semana Estoy Off*
-• *Pregunta Cuanto Es En Tu Pais Al Wa.me/51902360712*
+• *Pregunta Cuanto Es En Tu Pais Al Wa.me/5126933818*
 • *Recuerda Mandar Mensaje A Wa.me/51902360712 Si Estas Interesado*
-• *Recuerda Que Este Chat Solo Es Un Bot El Dueño Oficial Es Wa.me/51902360712*
+• *Recuerda Que Este Chat Solo Es Un Bot El Dueño Oficial Es Wa.me/5192633818*
 `;
