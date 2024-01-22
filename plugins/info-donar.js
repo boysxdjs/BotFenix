@@ -17,7 +17,7 @@ const handler = async (m, {conn, usedPrefix, command}) => {
 *┃ ➤ BANCO: *Bcp* 
 *┃ ➤ BENEFICIARIO: *Alacran Bot* 
 *┃ ➤ CONCEPTO : *Apoyo*  
-*┃ ➤ YAPE: *https://wa.link/vb8npk*
+*┃ ➤ YAPE: +51 926 933 818
 *┃*
 *┃ 👉🏻 𝙲𝙾𝙽𝚃𝙰𝙲𝚃𝙰𝙼𝙴 𝚂𝙸 𝙽𝙴𝙲𝙴𝚂𝙸𝚃𝙰𝚂*
 *┃ 𝙼𝙰𝚂 𝙳𝙰𝚃𝙾𝚂 𝚈 𝙿𝙰𝚁𝙰 𝙰𝙶𝚁𝙰𝙳𝙴𝙲𝙴𝚁𝚃𝙴*
