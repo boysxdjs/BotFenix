@@ -6,10 +6,10 @@ const handler = async (m, {conn, usedPrefix}) => {
 *➤ 𝙶𝚛𝚞𝚙𝚘 𝚘𝚏𝚒𝚌𝚒𝚊𝚕 𝚍𝚎𝚕 𝙱𝚘𝚝:*
 
 *Grupo Oficial Ventas*
-*1.-*https://chat.whatsapp.com/J1f1pbJEJWBEDFIaopmhkW
+*1.-*https://chat.whatsapp.com/HpujP99qhL6G9vI2SXSSa1
 
 *Ig Oficial*
-*2.-*https://www.instagram.com/team.clan.hack/*`.trim();
+*2.-*https://www.instagram.com/optimus.ventas.bot*`.trim();
   const buttonMessage= {
     'document': {url: `https://www.instagram.com/optimus.ventas.bot`},
     'mimetype': `application/${document}`,
