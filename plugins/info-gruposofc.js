@@ -11,7 +11,7 @@ const handler = async (m, {conn, usedPrefix}) => {
 *Ig Oficial*
 *2.-*https://www.instagram.com/team.clan.hack/*`.trim();
   const buttonMessage= {
-    'document': {url: `https://www.instagram.com/team.clan.hack/`},
+    'document': {url: `https://www.instagram.com/optimus.ventas.bot`},
     'mimetype': `application/${document}`,
     'fileName': `「  𝘼𝙡𝙖𝙘𝙧𝙖𝙣 」`,
     'fileLength': 99999999999999,
@@ -20,13 +20,13 @@ const handler = async (m, {conn, usedPrefix}) => {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://www.instagram.com/team.clan.hack/',
+        'mediaUrl': 'https://www.instagram.com/optimus.ventas.bot',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': '🦂 𝘼𝙡𝙖𝙘𝙧𝙖𝙣 🦂',
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://www.instagram.com/team.clan.hack/'}},
+        'sourceUrl': 'https://www.instagram.com/optimus.ventas.bot'}},
     'caption': text,
     'footer': wm,
     'headerType': 6};
